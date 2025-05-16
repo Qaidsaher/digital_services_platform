@@ -148,6 +148,3 @@ MIT License – feel free to fork and build upon it.
 
 ```
 
----
-
-Let me know if you want a **translated Arabic version** or if you'd like to deploy it with a CI/CD setup or Laravel migration later.
